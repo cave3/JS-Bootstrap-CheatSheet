@@ -3,6 +3,8 @@
 ### Overview of basic bootstrap classes
 ___
 
+*  Navigation Bar
+*  Jumbotron
 *  Typography
 *  Alignment & Transformation
 *  Quick Floats & Clear Floats
